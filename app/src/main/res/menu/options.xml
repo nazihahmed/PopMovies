@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	tools:context=".MainActivity">
+	<item android:title="Top Rated" android:id="@+id/option_top_rated"/>
+	<item android:title="Most popular" android:id="@+id/option_most_popular"/>
+	<item android:title="Now Playing" android:id="@+id/option_now_playing"/>
+</menu>

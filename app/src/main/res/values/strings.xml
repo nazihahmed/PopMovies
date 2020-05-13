@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">Pop Movies</string>
+	<string name="detail_error_message">Failed to fetch movie data</string>
+	<string name="marked_as_favorite">Movie marked as favorite</string>
+</resources>
